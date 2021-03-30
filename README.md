@@ -1,10 +1,20 @@
-![Logo](logo-halodi.png)
+<br />
+<p align="center">
+  <a href="https://github.com/Halodi/halodi-recruitment-challenges">
+    <img src="logo-halodi.png" alt="Logo" height="200">
+  </a>
 
-# Halodi Robotics Recruitment Challenges
+  <h3 align="center">Halodi Robotics Recruitment Challenges</h3>
 
-Small engineering challenges to evaluate candidates during the hiring process.
-These challenges aren't meant to "test a candidate", but rather offer a starting point for discussions during the team interview.
-We value *why* an approach was taken rather than *how*.
+  <p align="center">
+    Small engineering challenges to evaluate candidates during the hiring process.
+  </p>
+</p>
+
+## Overview
+
+- These challenges aren't meant to "test a candidate", but rather offer a starting point for discussions during the team interview.
+- We value *why* an approach was taken rather than *how*.
 
 ## Getting Started
 
