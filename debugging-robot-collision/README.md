@@ -11,7 +11,7 @@ The motion is simple: the robot descends in Z until a collision is detected by t
 
 ![Robot poke and contact distinction](robot-poke.gif)
 
-Given the LOG files in this folder, answer the following questions for both scenarios:
+Given the [files in the `logs` folder](./logs), answer the following questions for both scenarios:
 
 1. What's the approximate velocity of the downwards motion?
 2. What's the force measurement at the moment of contact?
