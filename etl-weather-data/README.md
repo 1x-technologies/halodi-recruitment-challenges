@@ -6,7 +6,7 @@ With decent ETL skills, engineers can be empowered making data-driven decisions 
 ## Challenge
 
 This challenge uses hourly historical weather data from the [Montreal McTavish weather station](https://climate.weather.gc.ca/climate_data/hourly_data_e.html?StationID=10761).
-Given the CSVs in this folder, create a script, tool, or process that extracts the data, transforms/pivots it by calculating some basic statistics, and loads it into an output CSV with the following schema:
+Given the CSVs in [the data folder](./data), create a script, tool, or process that extracts the data, transforms/pivots it by calculating some basic statistics, and loads it into an output CSV with the following schema:
 
 |month|temperature_mean|temperature_max|temperature_min|
 |---|---|---|---|
