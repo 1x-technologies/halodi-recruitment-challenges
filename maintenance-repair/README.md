@@ -1,11 +1,10 @@
 # Maintenance and Repairs
 
-The EVE robotic platform will be deployed to several pilot projects over the coming year.
-While the platform is a very capable R&D robot, maintenance can be tricky.
+The EVE robotic platform will be deployed to several pilot projects over the coming year and maintenance is important.
 
 ## Challenge
 
-Given the following photos below, answer the following questions and submit your responses back to your hiring manager by email.
+Given the following photos of an old R&D unit below, answer the following questions and submit your responses back to your hiring manager by email.
 Screenshots, diagrams, and any other insights or creative approaches are welcome.
 
 1. How would you approach replacing the embedded PCB assembly (red arrow) given the full assembly (second photo)?
