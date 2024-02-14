@@ -5,17 +5,14 @@ knowledge.
 
 ## Challenge
 
-- Feel free to write in C\#, C++, or Java.
-  - Add clear build instructions and (if applicable) a build
-    file (e.g., Makefile, gradle, maven, CMake)
+- The challenge should be written in modern C++
+  - Add clear instructions for building on Linux (e.g. Ubuntu 22.04 or similar) and the installation additional dependencies if necessary.  
 - Do not plagiarize, and provide citations if needed
 - Do not use a kinematics library, but implement your own solution
-    - You should not need a mathematics/matrix library either, but
-    if it results in cleaner code feel free to use one
 - We are looking for good programming practises demonstrating clean, re-usable, extendable, and maintainable code.
   - Each step builds on code written in the previous steps.
 - Feel free to make assumptions and document them if information is missing in the case.
-- Provide test cases using a common testing platform for your language (e.g., JUnit for Java)
+- Provide test cases using a common testing platform for C++ (e.g., gtest)
     - Bonus points: Use test driven development
 - Add documentation where necessary
   - Document public API functions
