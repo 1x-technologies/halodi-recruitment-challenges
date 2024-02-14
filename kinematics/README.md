@@ -19,7 +19,9 @@ knowledge.
 - Use good class, function, and variable names
 - Develop against a local git repository, and commit at least after every question.
     - If using test driven development, show that using commits
-- Send the whole repository (including the .git directory) when finished as a zip archive
+- Add a short report in plain text (.txt file) briefly outlining the main design considerations/choices of your implementation. 
+- Send the whole repository (including the .git directory and report) when finished as a zip archive
+
 
 ### Task 1: Model
 
